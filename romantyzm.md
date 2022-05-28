@@ -3,7 +3,7 @@
 → **Odmienny** typ *widzenia rzeczywistości* – inny sposób poetyckiej interpretacji
 → Walka z tendencjami poprzedniego etapu
 
-## Kierunki romantyzmu
+### Kierunki romantyzmu
 - Sentymentalizm
 
 ### Klasycyzm
@@ -128,3 +128,59 @@ Niż mędrca szkiełko i oko.
 title: Aforyzm
 Złota myśl, maksyma
 ```
+
+### Typy bohaterów romantycznych
+
+#### Bohater bajroniczny
+
+Nazwa pochodzi od autora pierwowzoru (Giaur) tego typu – *Georga Byrona*.
+
+- Giaur → tytułowy bohater powieści poetyckiej *George’a Byrona* (Giaur) – to innowierca w oczach Turków, cała mroczna historia rozgrywa się w okupowanej przez nich Grecji.
+- Giaur to jedna wielka **tajemnica** – nie znamy prawdziwego *imienia* bohatera, nie wiemy o nim właściwie nic. Wiadomo, że przybył z Wenecji i że nad życie kocha Leilę, żonę tureckiego emira Hassana.
+- Zdradzony Hassan ukarze swoją żonę – zgodnie z obyczajem **zawiązana w worku Leila zostaje wrzucona do morza** i utopiona.
+- Giaurowi pozostały tylko **rozpacz i chęć zemsty**. Tytułowy bohater zabija Hassana, a później osiada w klasztorze. **Zemsta nie przyniosła mu ulgi** – jego cierpienie po stracie ukochanej było tak wielkie, że **nie chciał już dalej żyć**.
+- Jedyne czego żałuje to, że jego ukochana cierpiała.
+
+Typ bajroniczny to przede wszystkim:
+- duma, indywidualizm, **bunt ze światem zewnętrznym**, odwaga i tajemniczość; 
+- umiłowanie wolności i **walka**, silne emocje;
+- **siła**;
+
+#### Bohater faustowski
+
+Nazwa pochodzi od utworu Goethe – *„Faust”*.
+
+Główny bohater jest starym mędrcem i ma głód **wiedzy, dzięki której zrozumie świat**. Zaczyna od przestudiowania wszystkiego co może znaleźć, kiedy tam nic nie znajduje, to zaczyna szukać **w zakazanych źródłach**, uczy się alchemii. **Buntuje się przeciw światu zewnętrznemu.**
+
+```ad-quote
+„Trwaj chwilo, jesteś piękna”
+```
+
+**Przez poznania świata, zastaje spełnienie**. Pojawia się diabeł pod postacią *pudla czarnego*. Faust zakłada się z diabłem, że da mu wiedzę, ale jeśli Faust krzyknie **„Trwaj chwilo, jesteś piękna”**, to diabeł **weźmie jego dusze**.
+
+Diabeł szuka Faustowi kochanki, bo myśli, że tak zmusi go do wypowiedzenia tych słów. Bohater jest gotów podpisać pakt z diabłem, **bo chce coś poczuć**.
+
+#### Bohater werterowski
+
+Pochodzi z *„Cierpień młodego Wertera”* Johanna Wolfganga Goethego. **Nic nie rozumie, buntuje się przeciw samemu sobie**.
+
+Werterowski bohater będzie szukał uczucia **istnienia w cierpieniu**.
+
+Typ werterowski to przede wszystkim:
+- **nadwrażliwość**, 
+- Weltschmerz – ból świata – świat jest nie dobry, ma złe zasady, 
+- cierpienie, rozdarcie duszy, 
+- **bezradność** wobec norm świata i własnych emocji, **bierność**,
+- **załamanie**, samobójstwo.
+
+#### Bohater reneiczny (renejeski)
+
+Nazwa pochodzi od bohatera z powieści *„René”* Chateaubrianda.
+
+Nie mieści w gorsecie społecznym, ale nie wie **czego mu brak**. Bohater reneiczny rzuca się w świat i próbuje odnaleźć *sens* w sztuce albo w podróży. **Szuka bodźców w niekonwencjonalnych tematach** jak np. kazirodztwo.
+
+- Bohaterowi **wybierany jest partner**, niezgodnie z jego wolą.
+- Nie wie, co jest **moralną**, a co niemoralną miłością.
+- Źle się czuje w świecie, **analizuje go i interpretuje**.
+- Ma **słomiany zapał** – nie umie się poświęcić celom.
+- Często **się nudzi** ideami.
